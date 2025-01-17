@@ -1,0 +1,46 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Gameboy original",
+      "precio": "$170",
+      "imagen": "./img/product1.png"
+    },
+    {
+      "id": "2",
+      "nombre": "Taza Star Wars",
+      "precio": "$90",
+      "imagen": "./img/product2.png"
+    },
+    {
+      "id": "3",
+      "nombre": "Campera Spiderman",
+      "precio": "$230",
+      "imagen": "./img/campera.jpeg"
+    },
+    {
+      "id": "4",
+      "nombre": "Gorra Creeper",
+      "precio": "$30",
+      "imagen": "./img/gorra.jpeg"
+    },
+    {
+      "id": "5",
+      "nombre": "Muñeco Odie",
+      "precio": "$95",
+      "imagen": "./img/muneco.jpeg"
+    },
+    {
+      "id": "6",
+      "nombre": "Taza Gamboy",
+      "precio": "$60",
+      "imagen": "./img/taza__gameboy.jpeg"
+    },
+    {
+      "id": "b155",
+      "nombre": "Casco Ironman",
+      "precio": "500",
+      "imagen": "https://tse1.mm.bing.net/th?id=OIP.uq1uRY_P855eZOyIBS4KMgHaHa&pid=Api&P=0&h=180"
+    }
+  ]
+}
